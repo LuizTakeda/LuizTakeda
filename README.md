@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 --
 
 -->
-### printf(" Olá seja bem vindo ao meu perfil 😼 ");
+### printf(" Olá, seja bem vindo ao meu perfil 😼 ");
 // -- Em desenvolvimento !! --
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakedaGalaxy&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
