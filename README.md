@@ -35,6 +35,9 @@
   <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)" target="_blank" title="React Js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="70"/>
   </a>
+  <a href="https://pt.wikipedia.org/wiki/Next.js" target="_blank" title="Next Js">
+    <img src="https://user-images.githubusercontent.com/62729864/218258248-50e7e916-1465-4552-a8eb-59d959e6262f.svg" height="45" width="70"/>
+  </a>
   <a href="https://pt.wikipedia.org/wiki/KiCad" target="_blank" title="Kicad">
     <img src="https://user-images.githubusercontent.com/62729864/214878778-a319dcab-1a0f-4ce7-9d25-2e0c7f689a18.svg" height="45" width="70"/>
   </a>
