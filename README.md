@@ -11,7 +11,7 @@
 
 <div align="left">
   <h3>> Redes sociais</h3>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-takeda-a179291b8/" target="_blank" title="Linkedin">
+  <a href="https://www.linkedin.com/in/luiz-t-a179291b8/" target="_blank" title="Linkedin">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="70"/>
   <a/>
 </div>
