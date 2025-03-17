@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/62729864/214825076-246b4734-4db8-4c9f-8859-e316efd170e3.gif" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakedaGalaxy&theme=dracula"  height="250" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakedaGalaxy&theme=dracula&exclude_repo=university-dm-order-manager,university-lp-dart-chat"  height="250" width="300"/>
 </div>
 
 #
