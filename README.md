@@ -22,7 +22,7 @@ I'm a **Fullstack Developer focused on Backend**, also working with **Embedded S
 - Tailwind CSS, shadcn/ui
 
 ### 🧰 **Tools & Others**
-- Python, Docker, NGINX
+- Python, Docker, NGINX, Turborepo
 
 ### 🔧 **Embedded Systems / IoT**
 - C++, C  
