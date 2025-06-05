@@ -1,8 +1,8 @@
 <div align="left"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F34B7D&vCenter=true&width=425&height=30&lines=hey+there%2C+i'm+Takeda !!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hey+there+I'm+Takeda+!!!" />
 </div>
 
-I'm a Full-Stack Developer focused on Backend, also working with Embedded Systems and IoT. I'm passionate about understanding how things work, from low-level electronics to full software architectures. I aim to build efficient, scalable, and meaningful solutions.
+I'm a full-stack developer focused on backend, and I also work with embedded systems and IoT. I'm passionate about understanding how things work, from low-level electronics to full software architectures. I aim to build efficient, scalable, and meaningful solutions.
 
 🌐 Portfolio: [luiztakeda.dev](https://luiztakeda.dev)
 
