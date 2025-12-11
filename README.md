@@ -31,10 +31,6 @@ I'm a full-stack developer focused on backend, and I also work with embedded sys
 - [LinkedIn](https://www.linkedin.com/in/luiztakeda)  
 - ✉️ Email: contact@luiztakeda.dev
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiztakeda&theme=dracula" height="300" width="900"/>
-<div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luiztakeda&color=red" alt="Profile views" />
 </p>
