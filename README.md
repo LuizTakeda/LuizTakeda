@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:ff0000&section=header&reversal=false"/>
 
-I’m a Software Engineer focused on IoT integration, bridging the gap between low-level C firmware and modern software architectures. I’m passionate about building efficient, scalable, and meaningful solutions from the silicon to the cloud.
+I’m a Software Engineer focused on IoT integration, bridging the gap between low-level C firmware and modern software architectures.
 
 🌐 Portfolio: [luiztakeda.dev](https://luiztakeda.dev) ✉️ Email: [contact@luiztakeda.dev](mailto:contact@luiztakeda.dev)
 
