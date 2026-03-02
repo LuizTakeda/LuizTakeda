@@ -10,7 +10,7 @@ I’m a Software Engineer focused on IoT integration, bridging the gap between l
 
 |Repository|Summary|Stack|Status|
 |----------|-------|-----|------|
-|[esp32-freertos-edge-dashboard](https://github.com/LuizTakeda/esp32-freertos-edge-dashboard)|Full-stack Edge Computing: A real-time ESP32 dashboard powered by FreeRTOS (C) and a modern TS/Web Components frontend with a custom automated build pipeline.|![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)<br/>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)|✅ Completed|
+|[esp32-freertos-edge-dashboard](https://github.com/LuizTakeda/esp32-freertos-edge-dashboard)|Full-stack Edge Computing: A real-time ESP32 dashboard powered by FreeRTOS (C) and a modern TS/Web Components frontend with a custom automated build pipeline.|![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)<br/>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)|✅Completed|
 
 ## Technical Toolbox
 
