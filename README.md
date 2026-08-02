@@ -8,9 +8,19 @@ I’m a Software Engineer focused on IoT integration, bridging the gap between l
 
 ## Projects
 
+### Main
+
 |Repository|Summary|Stack|Status|
 |----------|-------|-----|------|
 |[esp32-freertos-edge-dashboard](https://github.com/LuizTakeda/esp32-freertos-edge-dashboard)|Full-stack Edge Computing: A real-time ESP32 dashboard powered by FreeRTOS (C) and a modern TS/Web Components frontend with a custom automated build pipeline.|![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)<br/>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)|Completed✅|
+
+### Master's
+
+|Repository|Summary|Stack|Status|
+|----------|-------|-----|------|
+|[iot-tracking-system](https://github.com/LuizTakeda/iot-tracking-system)|Real-time IoT vehicle tracking system built with ESP32 (ESP-IDF/FreeRTOS), SAM-M10Q GPS, secure MQTTS, Node-RED, and InfluxDB for route visualization.|![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)<br/>![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)<br/>![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)|Completed✅|
+|[robotics-scara](https://github.com/LuizTakeda/robotics-scara)|SCARA robotic arm control system with ESP32 (Arduino framework), forward & inverse kinematics, simulation, and Python GUI for automated pick-and-place.|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br/>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br/>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|Completed✅|
+|[xpto-erp-microservices](https://github.com/LuizTakeda/xpto-erp-microservices)|Event-driven microservices platform built with Python, RabbitMQ, Nginx, Docker Compose, and GitLab CI/CD. Features 5 isolated domain services with JWT/RBAC auth and SSE notifications.|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)<br/>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br/>![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)|Completed✅|
 
 ## Technical Toolbox
 
