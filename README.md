@@ -90,19 +90,25 @@ Fastify plugin managing Eclipse Mosquitto Dynamic Security (DynSec) ACLs, roles,
 
 ## Technical Toolbox
 
-### Hardware & Embedded
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
-![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
+**Embedded & Edge Computing**  
+![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%2300599C?style=flat-square&logo=c&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=flat-square&logo=kicad&logoColor=white)
 
-### Fullstack Development
+**Full-Stack & Integration**  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-%23000000?style=flat-square&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-%233670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Database & Infra
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Turborepo](https://img.shields.io/badge/turborepo-%23EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white)
+**Database & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luiztakeda&color=red" alt="Profile views" />
