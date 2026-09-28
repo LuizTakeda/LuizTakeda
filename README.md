@@ -13,7 +13,7 @@ Software Engineer building robust system architectures, bridging the gap between
     <img 
       src="https://github.com/user-attachments/assets/a3e1b7e4-918e-48ce-9b75-f74442fb37ff" 
       alt="ESP32 Dashboard Preview" 
-      width="380" 
+      width="350" 
       align="right"
     />
   </a>
@@ -37,7 +37,7 @@ Real-time edge dashboard hosted directly on an ESP32 SoC using FreeRTOS and Serv
     <img 
       src="https://github.com/LuizTakeda/masters-system/blob/master/imgs/architecture.svg" 
       alt="Masters System Preview" 
-      width="380" 
+      width="350" 
       height="220"
       align="right"
     />
@@ -63,7 +63,7 @@ Middleware IoT platform for heterogeneous device integration, real-time telemetr
     <img 
       src="https://github.com/user-attachments/assets/92d532fa-e5e8-426b-93b3-64f7c6d25d34" 
       alt="Fastify Mosquitto DynSec Preview" 
-      width="380" 
+      width="350" 
       align="right"
     />
   </a>
