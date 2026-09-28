@@ -32,10 +32,53 @@ Real-time edge dashboard hosted directly on an ESP32 SoC using FreeRTOS and Serv
 <br clear="both"/>
 <br/>
 
-| Repository | Summary | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| [**masters-system**](https://github.com/LuizTakeda/masters-system) | Middleware IoT platform for heterogeneous device integration and telemetry visualization (CeDRI/MSc thesis). | ![Fastify](https://img.shields.io/badge/Fastify-%23000000?style=flat-square&logo=fastify&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB) ![FIWARE](https://img.shields.io/badge/FIWARE-%23002E6E?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white) | `In Progress` 🛠️ |
-| [**fastify-mosquitto-dynsec**](https://github.com/LuizTakeda/fastify-mosquitto-dynsec) | Fastify plugin managing Eclipse Mosquitto Dynamic Security (DynSec) ACLs and users via MQTT topic calls. | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-%23000000?style=flat-square&logo=fastify&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white) | `Completed` ✅ |
+<p align="right">
+  <a href="https://github.com/LuizTakeda/masters-system">
+    <img 
+      src="https://github.com/LuizTakeda/masters-system/blob/master/imgs/architecture.svg" 
+      alt="Masters System Preview" 
+      width="380" 
+      height="220"
+      align="right"
+    />
+  </a>
+</p>
+
+### [masters-system](https://github.com/LuizTakeda/masters-system) 🛠️
+
+Middleware IoT platform for heterogeneous device integration, real-time telemetry processing, and context data aggregation (CeDRI / MSc dissertation).
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-%23000000?style=flat-square&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![FIWARE](https://img.shields.io/badge/FIWARE-%23002E6E?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+
+<br clear="both"/>
+<br/>
+
+<p align="right">
+  <a href="https://github.com/LuizTakeda/fastify-mosquitto-dynsec">
+    <img 
+      src="https://github.com/user-attachments/assets/92d532fa-e5e8-426b-93b3-64f7c6d25d34" 
+      alt="Fastify Mosquitto DynSec Preview" 
+      width="380" 
+      align="right"
+    />
+  </a>
+</p>
+
+### [fastify-mosquitto-dynsec](https://github.com/LuizTakeda/fastify-mosquitto-dynsec)
+
+Fastify plugin managing Eclipse Mosquitto Dynamic Security (DynSec) ACLs, roles, and clients programmatically over dedicated MQTT control topics.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-%23000000?style=flat-square&logo=fastify&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white)
+
+<br clear="both"/>
+<br/>
 
 ### Academic & Research (MSc Coursework)
 
