@@ -2,8 +2,6 @@
 
 Software Engineer building robust system architectures, bridging the gap between low-level firmware, edge computing, and modern backend services.
 
-🌐 Portfolio: [luiztakeda.dev](https://luiztakeda.dev)
-
 ✉️ Email: [contact@luiztakeda.dev](mailto:contact@luiztakeda.dev)
 
 ## Featured Projects
