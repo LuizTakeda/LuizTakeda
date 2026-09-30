@@ -30,15 +30,15 @@ Real-time edge dashboard hosted directly on an ESP32 SoC using FreeRTOS and Serv
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 <br clear="both"/>
-<br/>
+
+---
 
 <p align="right">
   <a href="https://github.com/LuizTakeda/masters-system">
     <img 
-      src="https://github.com/LuizTakeda/masters-system/blob/master/imgs/architecture.svg" 
+      src="https://github.com/user-attachments/assets/81705db8-4592-424f-8505-6bbbf2e114f4" 
       alt="Masters System Preview" 
       width="350" 
-      height="220"
       align="right"
     />
   </a>
@@ -56,7 +56,8 @@ Middleware IoT platform for heterogeneous device integration, real-time telemetr
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white)
 
 <br clear="both"/>
-<br/>
+
+---
 
 <p align="right">
   <a href="https://github.com/LuizTakeda/fastify-mosquitto-dynsec">
@@ -78,7 +79,6 @@ Fastify plugin managing Eclipse Mosquitto Dynamic Security (DynSec) ACLs, roles,
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white)
 
 <br clear="both"/>
-<br/>
 
 ### Academic & Research (MSc Coursework)
 
